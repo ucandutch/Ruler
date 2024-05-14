@@ -10,9 +10,9 @@ An app for the game Knight Online, the in game helper "Genie" alternative. Its s
 
  3. Run the app "Ruler.exe" as administrator and enjoy.
 
-## Screenshots
-![Ss 1](https://github.com/ucandutch/CaptainHook/blob/e65e0ad8538e20ae76652892cfe7e2d5f1197b84/Screenshot%202024-05-13%20200151.png)  ![Ss 2](https://github.com/ucandutch/CaptainHook/blob/e65e0ad8538e20ae76652892cfe7e2d5f1197b84/Screenshot%202024-05-13%20200227.png) 
-![Ss3](https://github.com/ucandutch/CaptainHook/blob/e65e0ad8538e20ae76652892cfe7e2d5f1197b84/Screenshot%202024-05-13%20200329.png)
+## Screenshots  
+### Main App
+![SS1](https://github.com/ucandutch/Ruler/blob/a361582cc835e86ded1946a73093e558e5d67bfe/Resources/Screenshot%202024-05-14%20153321.png)    - Genie mode ![SS2](https://github.com/ucandutch/Ruler/blob/a361582cc835e86ded1946a73093e558e5d67bfe/Resources/Screenshot%202024-05-14%20153334.png)
 
 ## Features
 
