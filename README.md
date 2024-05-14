@@ -4,7 +4,7 @@ An app for the game Knight Online, the in game helper "Genie" alternative. Its s
 
 ## Installation
 
- 1. Click [here](https://github.com/ucandutch/Ruler/releases) or Go to Releases and download the Ruler.rar from the latest release.
+ 1. Click [here](https://github.com/ucandutch/Ruler/releases) or Go to Releases and download the Ruler.zip from the latest release.
   
  2. Extract the rar on a preferred location.
 
